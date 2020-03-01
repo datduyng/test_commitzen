@@ -1,0 +1,10 @@
+{
+    "name": "test_commitizen",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "e85b9457-6ceb-411a-8080-81b6c2fcdde7 <datnguyen5653@huskers.unl.edu>",
+    "scripts" : {
+	"commit" : "npx git-cz"
+    },
+   "license": "MIT"
+}
